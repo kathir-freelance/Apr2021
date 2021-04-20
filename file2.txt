@@ -1,1 +1,3 @@
-ECHO is on.
+ECHO was on - yes
+welcome to merge conflict.
+will merge conflict happen here? yes
